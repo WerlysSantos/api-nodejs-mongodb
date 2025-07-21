@@ -54,6 +54,7 @@ A aplicação estará disponível em:
 📍 `http://localhost:3000`
 
 Caso a porta 3000 esteja em uso, altere para uma outra livre em seu computador
+
 ---
 
 ## 📌 Endpoints Disponíveis
