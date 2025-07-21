@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "api2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Werlys Santos",
+  "license": "ISC",
+  "description": "Este é um projeto de cadastro de usuáriso com NODE",
+  "dependencies": {
+    "@prisma/client": "^6.12.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.12.0"
+  }
+}
