@@ -147,9 +147,3 @@ Deleta um usuário pelo `id`.
 Werlys Santos  
 🔗 [LinkedIn](www.linkedin.com/in/werlys-santos-175b0b361)  
 🐙 [GitHub](https://github.com/WerlysSantos)
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob os termos da **ISC License**.
