@@ -145,5 +145,5 @@ Deleta um usuário pelo `id`.
 ## ✍️ Autor
 
 Werlys Santos  
-🔗 [LinkedIn](www.linkedin.com/in/werlys-santos-175b0b361)  
+🔗 [LinkedIn](https://www.linkedin.com/in/werlys-santos/)  
 🐙 [GitHub](https://github.com/WerlysSantos)
